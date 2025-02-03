@@ -1,1 +1,2 @@
-![Profile views](https://komarev.com/ghpvc/?username=MeoMunDep&label=PROFILE+VIEWS&color=green&style=for-the-badge)  
+![Profile views](https://komarev.com/ghpvc/?username=MeoMunDep&label=PROFILE+VIEWS&color=green&style=social)  
+
