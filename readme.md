@@ -13,7 +13,15 @@ Welcome to my space! I share free scripts, tools, and resources. Please read the
 ## 💖 Support My Work  
 Your donations help me maintain and improve my scripts. Every little contribution helps me buy milk for my cats 🐱.  
 
-### 📥 **Donate via Cryptocurrency**  
+### 📊 **GitHub Stats**  
+
+![MeoMunDep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeoMunDep&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeoMunDep&layout=compact&theme=radical)  
+
+🎯 **Visitors Counter:**  
+![Profile views](https://komarev.com/ghpvc/?username=MeoMunDep&label=PROFILE+VIEWS&color=blue&style=flat)  
+
+#### 📥 **Donate via Cryptocurrency**  
 
 | Cryptocurrency | Address |
 |---------------|---------|
