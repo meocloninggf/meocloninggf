@@ -1,6 +1,7 @@
 # 👋 Hi, @MeoMunDep a.k.a BlackCat here ^^
 
-Welcome to my space! I share free scripts, tools, and resources. Please read the instructions carefully before using them.  
+🚀 Welcome to my space! I share **free scripts, tools,** and **resources** to make your life easier.  
+📌 Please read the instructions carefully before using them!  
 
 ## 📲 Contact Me  
 [![YouTube](https://img.shields.io/badge/Youtube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@keoairdropfreene)    
