@@ -15,7 +15,7 @@ Your donations help me maintain and improve my scripts. Every little contributio
 
 ### 📊 **GitHub Stats**  
 
-![MeoMunDep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeoMunDep&show_icons=true&theme=radical)  
+![MeoMunDep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeoMunDep&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeoMunDep&layout=compact&theme=radical)  
 
 🎯 **Visitors Counter:**  
