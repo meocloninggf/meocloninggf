@@ -1,1 +1,1 @@
-![GitHub Stats](https://raw.githubusercontent.com/meomundep/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meomundep&show_icons=true&theme=dark)
